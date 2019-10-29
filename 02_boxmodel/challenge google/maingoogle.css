@@ -1,0 +1,28 @@
+.nombre{
+    text-align: center;
+    font-size: 100px;
+    color: rgb(79, 41, 185);
+}
+div{
+    margin-left: 80px;
+}
+img{
+    width: 250px;
+    height: 200px;
+    margin-left: 500px;
+}
+input{
+    padding-bottom: 10px;
+    padding-left: 300px;
+    padding-right: 200px;
+}
+.buttoncontainer{
+   
+    padding-left: 1200px;
+}
+div{
+    margin-top;: 120px;
+}
+.buscador{
+    margin-left: 350px;
+}

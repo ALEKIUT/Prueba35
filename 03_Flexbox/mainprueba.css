@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    display: flex
+}
+.padre{
+    border:solid 2px blue;
+    width: 60vw;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hijo1{
+    border: solid 2px red;
+    height: 20%;
+    width: 18%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.hijo2{
+    border: solid 2px red;
+    height: 20%;
+    width: 18%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nieto{
+    border: solid 1px black;
+    height: 30%;
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+.bisnieto{
+    border: solid 1px purple;
+    height: 15%;
+    width: 15%;
+    display: flex;
+    align-items: center;
+}

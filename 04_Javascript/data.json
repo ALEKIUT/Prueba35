@@ -1,0 +1,12 @@
+{
+        "nombre": "Alejandra",
+        "direccion": "Azcapo",
+        "telefono": "5512456545",
+        "edad": "21",
+        "trabajos": ["Dev:f", "Developer", "Mami"],
+        "mascotas":{
+            "perrito": "salchicha",
+            "gatito": "siames",
+            "pez": "dorado",
+    }
+}
