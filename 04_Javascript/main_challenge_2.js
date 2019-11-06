@@ -1,21 +1,3 @@
-//let nombre =prompt ("nombre");
-//let edad =prompt ("edad");
-//let telefono =prompt ("telefono");
-
-//console.log ("Nombre: "+ nombre);
-//console.log ("edad: " + ""+edad);
-//console.log ("telefono: " + ""+telefono);
-
-//let fecha = prompt ("ingresa tu año de nacimiento");
-//let anioactual=  2019;
-//console.log (anioactual-fecha);
-
-
-//let fecha = Number (prompt ("ingresa tu año de nacimiento"));
-//let anioactual=  2019;
-//console.log (anioactual-fecha);
-
-
 let persona= {
     nombre: "Alejandra"
     direccion: "Azcapo"
@@ -37,7 +19,3 @@ let persona= {
         metal: "Iron maiden", "metallica", "judas priest"
     }
 }
-
-
-
-
