@@ -50,7 +50,7 @@ if (edad >= 65){
 }*/
 
 
-/* let player1= prompt ("que eliges jugador 1"). toLowerCase();;
+let player1= prompt ("que eliges jugador 1"). toLowerCase();;
 let player2= prompt ("que eliges jugador 2"). toLowerCase();;
 
 if (player1 == "piedra" && player2 == "piedra"){
